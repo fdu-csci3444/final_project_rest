@@ -54,6 +54,8 @@ http://localhost:9016/api/v1/teachers/:id
 http://localhost:9016/api/v1/teachers/:id
 ```
 
+## similar to ex9, let this app whitelist angular app running at default angular port of 4200 on the localhost, for CORS
+
 ## similar to ex9, let same router support 2 base urls
 + let same router used for "/api/v1/teachers" base url, also support '/fdu/api/v1/teachers' base url
 
