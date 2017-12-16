@@ -1,5 +1,7 @@
 # final project REST service app
 
+## IMPORTANT NOTE, do not commit your project ahead of time. Commit only on date and time, that ilker will email.
+
 ## Dependencies (as described in ex9)
 + make sure mongodb is intalled and command utilities "mongod" and "mongo" are available on git bash command line
 + make /c/data/db directory, the default directory where mongodb writes its files, is there
